@@ -55,3 +55,7 @@ It also enables user to approve tokens spending and buy ticket.
 **Witdhraw and history**
 
 After lottery is finished user can witdhraw the prize won. History of previous winners is shown here.
+
+## Demo
+
+![Lottery demo](./assets/output.gif)
